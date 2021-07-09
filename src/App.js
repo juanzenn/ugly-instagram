@@ -25,8 +25,8 @@ const UnauthenticatedApp = ({ user }) => {
       <Switch>
         <Route exact path="/">
           <h1>
-            Welcome to my amazing app. Go to login or register to start using
-            it.
+            A made this change to be able to deploy Welcome to my amazing app.
+            Go to login or register to start using it.
           </h1>
         </Route>
         <Route path="/login">
