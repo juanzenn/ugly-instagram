@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: "Inter";  
+  background: lightblue;
+  padding-inline: 2rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    color: tomato;
+  }
+}
+
+nav {
+  padding: 2rem;
+
+  ul {
+    display: flex;
+    gap: 2rem;
+  }
+}
