@@ -1,8 +1,11 @@
 {
-  "name": "ugly-instagram",
+  "name": "ugly-gram",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "An Instagram clone for working with accounts and user interfaces.",
+  "keywords": [
+    "react",
+    "firebase"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "firebase": "8.7.0",
